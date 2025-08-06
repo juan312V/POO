@@ -1,2 +1,2 @@
 # poo
-programación orientada a objetos
+Curso programación orientada a objetos
